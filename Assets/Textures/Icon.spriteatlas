@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0906be54dbe51a64d8ab2172d09b4a52, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - bedf0833c85a93140a3886e18447334a: 21300000
+    - 2c288714e6c26a9449921b23ade12212: 21300000
+    - 6a3ded05212625b4797685aae98424f0: 21300000
+    - 197d1b1591ecf064ba4d7807d0ee27ea: 21300000
+    - bb348c37cc03d274a96cb06b32be0166: 21300000
+    - d61ebad934d2d93408243f019df0bd8f: 21300000
+    - 2adb311a2c406fe4fba684ea73a1dfe4: 21300000
+    - 1c85863ab1251384bb596d9cad097d07: 21300000
+    - da55ba0c510709544ba6c37bd9029c71: 21300000
+    - c9cd6a8c21e92514d8a507e1e1d726c2: 21300000
+    - a00a80fe97a594742ae8f4dd9de55ead: 21300000
+    - 5f96d65fc0b0e8a449ade92ff11556ae: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bedf0833c85a93140a3886e18447334a, type: 3}
+  - {fileID: 21300000, guid: 2c288714e6c26a9449921b23ade12212, type: 3}
+  - {fileID: 21300000, guid: 6a3ded05212625b4797685aae98424f0, type: 3}
+  - {fileID: 21300000, guid: 197d1b1591ecf064ba4d7807d0ee27ea, type: 3}
+  - {fileID: 21300000, guid: bb348c37cc03d274a96cb06b32be0166, type: 3}
+  - {fileID: 21300000, guid: d61ebad934d2d93408243f019df0bd8f, type: 3}
+  - {fileID: 21300000, guid: 2adb311a2c406fe4fba684ea73a1dfe4, type: 3}
+  - {fileID: 21300000, guid: 1c85863ab1251384bb596d9cad097d07, type: 3}
+  - {fileID: 21300000, guid: da55ba0c510709544ba6c37bd9029c71, type: 3}
+  - {fileID: 21300000, guid: c9cd6a8c21e92514d8a507e1e1d726c2, type: 3}
+  - {fileID: 21300000, guid: a00a80fe97a594742ae8f4dd9de55ead, type: 3}
+  - {fileID: 21300000, guid: 5f96d65fc0b0e8a449ade92ff11556ae, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - paper
+  - spock
+  - btn_Menu
+  - bg_btn
+  - btn_play
+  - rock
+  - icn_box
+  - lizard
+  - bg_window
+  - LifeButton
+  - scissor
+  - btn_replay
+  m_RenderDataMap: {}
+  m_Tag: Icon
+  m_IsVariant: 0
